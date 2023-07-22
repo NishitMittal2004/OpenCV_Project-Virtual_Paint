@@ -1,1 +1,1 @@
-# OpenCV_Project-Virtual_Paint
+# OpenCV Project - Virtual Paint
