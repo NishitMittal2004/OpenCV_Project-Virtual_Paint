@@ -1,1 +1,3 @@
 # OpenCV Project - Virtual Paint
+---
+### This project is a virtual paint application developed using OpenCV, a popular computer vision library in Python. It allows users to draw on the screen in real-time using different colors, detected from objects or markers of those colors through the webcam feed. The application can recognize four different colors: blue, green, red, and yellow. When the user moves an object of one of these colors in front of the camera, the application tracks its position and draws colored circles on the screen as the user moves the object around, creating a virtual painting experience.
